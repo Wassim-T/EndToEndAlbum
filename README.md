@@ -1,4 +1,4 @@
-```markdown
+
 # Secure Photo Album Management System
 
 ## Project Overview
