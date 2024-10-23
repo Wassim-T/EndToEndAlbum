@@ -1,0 +1,21 @@
+.back-button {
+    display: flex;
+    align-items: center;
+    size: 20px;
+    background: none;
+    justify-content: center;
+    background-color: #eaeaea; /* Bootstrap primary color */
+    color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+}
+
+.back-button:hover {
+    background-color: #0056b3; /* A darker shade of the primary color */
+}
+
+.back-button i {
+    margin-right: 5px;
+}
